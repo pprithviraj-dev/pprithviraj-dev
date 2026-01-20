@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pulakala Prithvi Raj</h1>
 <h3 align="center">Innovating with AI: Code, Data, Solutions</h3>
-<img align="right" alt="Coding" width="380" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
+<img align="center" alt="Coding" width="380" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pprithviraj-dev&label=Profile%20views&color=0e75b6&style=flat" alt="pprithviraj-dev" /> </p>
 
 - 🌱 I’m currently learning **AI Agents**
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pprithviraj-dev&show_icons=true&locale=en" alt="pprithviraj-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pprithviraj-dev&" alt="pprithviraj-dev" /></p>
+
