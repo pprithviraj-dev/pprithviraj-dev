@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c302f8106533937.5f91cf38ecb08.gif" alt="Master Head" width="100%" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Pulakala Prithvi Raj</h1>
 <h3 align="center">Innovating with AI: Code, Data, Solutions</h3>
 <img align="right" alt="Coding" width="380" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
