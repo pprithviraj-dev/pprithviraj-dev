@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **BERT,LLMs,CV,ML,NLP**
 
-- 📫 How to reach me **pulakalaprithviraj1@outlook.com**
+- 📫 How to reach me **prithviraj6325@gmail.com**
 
 - ⚡ Fun fact **Teaches machines to learn; still learning how to debug my social life.**
 
